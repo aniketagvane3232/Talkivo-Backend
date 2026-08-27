@@ -1,0 +1,127 @@
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.Development.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.staticwebassets.endpoints.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.exe
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.deps.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.runtimeconfig.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.pdb
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.AssemblyReference.cache
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfoInputs.cache
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfo.cs
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.CoreCompileInputs.cache
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cs
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\scopedcss\bundle\Backend.Chat.styles.css
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.development.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets\msbuild.Backend.Chat.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets\msbuild.Backend.Chat.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets\msbuild.build.Backend.Chat.props
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Backend.Chat.props
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Backend.Chat.props
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend..F6E0E6AB.Up2Date
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\refint\Backend.Chat.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.pdb
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.genruntimeconfig.cache
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\obj\Debug\net9.0\ref\Backend.Chat.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Code Files\Learning\ChatAppSignalR\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.Development.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.staticwebassets.endpoints.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.exe
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.deps.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.runtimeconfig.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.pdb
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.AssemblyReference.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfoInputs.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfo.cs
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.CoreCompileInputs.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\scopedcss\bundle\Backend.Chat.styles.css
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.development.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\swae.build.ex.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend..F6E0E6AB.Up2Date
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\refint\Backend.Chat.dll
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.pdb
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.genruntimeconfig.cache
+D:\Project\SignalR-ChatApp-main\SignalR-ChatApp-main\Backend.Chat\Backend.Chat\obj\Debug\net9.0\ref\Backend.Chat.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.Development.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\appsettings.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.staticwebassets.endpoints.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.exe
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.deps.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.runtimeconfig.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Backend.Chat.pdb
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Features.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.AssemblyReference.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfoInputs.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.AssemblyInfo.cs
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.csproj.CoreCompileInputs.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\scopedcss\bundle\Backend.Chat.styles.css
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.development.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\swae.build.ex.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend..F6E0E6AB.Up2Date
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\refint\Backend.Chat.dll
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.pdb
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\Backend.Chat.genruntimeconfig.cache
+D:\Project\Talkivo\Talkivo\Backend.Chat\Backend.Chat\obj\Debug\net9.0\ref\Backend.Chat.dll
