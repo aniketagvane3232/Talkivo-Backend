@@ -4,13 +4,20 @@ using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Disable configuration file reload/watchers.
+// This prevents inotify errors on Render.
+builder.Configuration.Sources
+    .OfType<Microsoft.Extensions.Configuration.Json.JsonConfigurationSource>()
+    .ToList()
+    .ForEach(source => source.ReloadOnChange = false);
+
+// Add services
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-// Add SignalR
+// SignalR
 builder.Services.AddSignalR();
 
 // CORS
@@ -32,21 +39,21 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Swagger only in development
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
 
-// CORS must be before Authorization and endpoints
+// CORS must come before endpoints
 app.UseCors();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
-// Map SignalR Hub
+// SignalR
 app.MapHub<ChatHub>("/chatHub");
 
 app.Run();
